@@ -1,10 +1,10 @@
 # Site settings
-title: Creating my first Ruby gem
+title: Learning to code with Flatiron Learn Verified
 header-img: img/home-bg.png
 email: ebanhernandez@gmail.com
 copyright_name: ebanh
 description: > # this means to ignore newlines until "baseurl:"
-  ~a mmorpg news scraper
+  and learning to blog!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ebanh
