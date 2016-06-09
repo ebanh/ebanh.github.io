@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "**CLI Data Gem Project**"
-date:   2016-06-06 01:18:12 +0000
+date:   2016-06-05 21:18:13 -0400
 ---
 
 
@@ -18,10 +18,5 @@ Publishing and updating my newly created gem was somewhat difficult. The provide
 Overall the project was fun, a bit frustrating but very rewarding. I'm looking forward to my first assessment and moving into the next section!
 
 - Thank you for tolerating my first blog post... Perhaps this is a skill that improves over time....
-
-
-Overall the project was fun, a bit frustating but very rewarding. I'm looking forward to my first assessment and moving into the next section!
-
-- Thank you for tolorating my first blog post.. Perhaps this is a skill that improves over time....
 
 
