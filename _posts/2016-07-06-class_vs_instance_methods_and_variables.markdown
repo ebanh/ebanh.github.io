@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Class vs Instance #methods and variables"
-date:   2016-07-06 08:29:46 +0000
+date:   2016-07-06 04:29:46 -0400
 ---
 
 
@@ -17,7 +17,7 @@ A single @ indicates an instance variable. This is a variable that can only be u
 
     @@all
 
-@@ indicates a class variable. This variable can be accessed and used by each of the individual artist instances. If we create a new artists and want to save it to @@all, we can, because this is an class variable. Class variables are defined in the overall class, not inside any particular #method.
+@@ indicates a class variable. This variable can be accessed and used by each of the individual artist instances. If we create a new artists and want to save it to @@all, we can, because this is an class variable. Class variables are usually defined in the overall class, but can also be defined in a class #method.
 
 Class vs Instance #methods:
 
