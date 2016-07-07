@@ -61,7 +61,7 @@ Example: **Artist**.*all*
         @@all << self
       end
       
-Now why is our #save method an instance method? We need to be able to call this method on each artists object we create, so we can save it to our class variable. 
+Now why is our #save method an instance method? We need to be able to call this method on each artist object we create, so we can save it to our class variable. 
 Example:  **frank**.*save*  
 *This will save the artist instance of frank to the the @@all class variable.*
 
