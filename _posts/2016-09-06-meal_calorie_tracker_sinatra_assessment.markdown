@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Meal/ Calorie tracker *(Sinatra assessment)*"
-date:   2016-09-06 05:28:30 +0000
+title:  "Meal/ Calorie tracker *(Sinatra assessment)"
+date:   2016-09-06 01:28:30 -0400
 ---
 
 
